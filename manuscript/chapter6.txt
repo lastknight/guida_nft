@@ -1,0 +1,149 @@
+# NFT, Diritto d'Autore & Arte
+
+Il 29 agosto 1952 a Woodstock, New York, il pianista David Tudor eseguiva per la prima volta nella storia, davanti ad una sala gremita di persone, un particolarissimo brano musicale composto dall'amico e collega John Cage, dal titolo 4'33" (quattro minuti e trentatré secondi, come la sua durata).
+
+Il brano presentava una caratteristica unica e, letteralmente, inaudita: l'intera partitura, scritta per ogni strumento e combinazione di strumenti, non conteneva nemmeno una nota. A testimonianza di quella prima esecuzione, si racconta che il pianista si sedette, aprì il coperchio della tastiera, lo richiuse, e rimase immobile per tutta la durata del brano. Alla fine del terzo movimento, gran parte del pubblico si era già alzato indignato ed aveva abbandonato la sala. Poteva mai esser considerata una performance artistica quella? Probabilmente sì, considerando che quella partitura è oggi conservata al MoMA di New York.  
+L'intento del compositore John Cage, al di là della chiara provocazione, definita come una "*utopia concettuale, anarchica e paradossale*" era soprattutto questo: rivoluzionare il mondo dell'ascolto, e, più in generale, il concetto di opera d'arte.
+
+Proprio il crescente interesse attuale tra il rapporto tra Non Fungible Token e il mondo dell'arte pare stia portando ad una nuova, controversa, rivoluzione concettuale, e ciò non soltanto nel modo di vivere l'opera d'arte, ma anche nel modo di esercitare e trasmettere i diritti ad essa legati.
+
+## Storia e fonti del diritto d'autore
+
+La nascita di questo istituto si deve all'invenzione della stampa a caratteri mobili, attribuita a Johann Gensfleisch von Gutemberg nel 1438. La possibilità di riproduzione in copia delle opere scritte, e l'effetto economico che progressivamente ne è conseguito, hanno fatto sorgere la necessità di un riconoscimento di posizioni soggettive in capo agli autori che premiassero il loro contributo creativo. Il riconoscimento è stato tutt'altro che immediato, in quanto inizialmente furono concessi dei "privilegi" soltanto a editori e stampatori, sotto la forma di monopoli temporanei, affinché potessero affrontare il momento iniziale dell'intrapresa commerciale delle stampe.
+
+In questo contesto, Venezia, trainata dall'intensa attività delle corporazioni, divenne il nucleo originario della produzione di stampe: nel 1501, ad esempio, per opera di Oliviero Petrucci, che già nel 1498 aveva ottenuto un privilegio ventennale per la stampa, vide la luce la prima raccolta di partiture di musica polifonica dal nome "*Harmonice Musices Odhecaton*".
+
+I diritti riconosciuti agli autori in ordine alla riproduzione delle opere entrarono a far parte delle legislazioni nazionali soltanto nel secolo XVIII, con la Legge della Regina Anna in Inghilterra, seguita dalla legge federale degli Stati Uniti del 1790, e dalle leggi francesi del 1791 e 1793. La prima vera legge italiana risale al 1865, subito dopo l'unificazione, e rimase in vigore fino al 1925.
+
+La normativa sul diritto d'autore, oggi, è costituita da un sistema di fonti molto articolato.
+
+In ambito internazionale sono stati sottoscritti una serie di trattati, a partire dalla [Convenzione d'Unione di Berna](https://www.siae.it/sites/default/files/BG_Normativa_ConvenzioneBerna.pdf) firmata nel 1886 e modificata in numerose successive conferenze, di cui l'ultima a Parigi nel 1971, e dalla Convenzione Universale per il diritto d'autore, siglata a Ginevra nel 1952. Nel 1995 è stato sottoscritto l'accordo TRIPs, un trattato internazionale promosso dall'Organizzazione mondiale del commercio (OMC).
+
+Inoltre, per rispondere alle problematiche lanciate dalla rivoluzione digitale di fine millennio, la maggior parte degli Stati membri della World Intellectual Property Organization (WIPO) nel 1996 ha sottoscritto il [Wipo Copyright Treaty (WCT)](https://wipolex.wipo.int/en/text/295166) e il [Wipo Performances and Phonograms Treaty (WPPT)](https://wipolex.wipo.int/en/text/295578).
+
+Alle previsioni dei trattati è stata data attuazione negli Stati Uniti tramite il [Digital Millennium Copyright Act](https://www.copyright.gov/legislation/dmca.pdf) (DMCA). In Europa, invece, sono state emanate la [Direttiva 2000/31/CE](https://eur-lex.europa.eu/legal-content/IT/TXT/HTML/?uri=CELEX:32000L0031&from=ET) sul commercio elettronico, e la [Direttiva n. 2001/29/CE](https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32001L0029&from=CS) sull'armonizzazione di taluni aspetti del diritto d'autore e dei diritti connessi nella "*società dell'informazione*".
+
+Da ultimo, è stato approvato dal Parlamento europeo in via definitiva in data 26 marzo 2019 il testo della [Direttiva 2019/790/UE](https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32019L0790&from=RO), definita "Direttiva sul diritto d'autore nel mercato unico digitale", o ancora "Direttiva Copyright", alla quale tuttavia non è ancora stata data attuazione in Italia.
+
+La principale fonte nel nostro ordinamento è la c.d. [Legge sul diritto d'autore](https://www.cliclavoro.gov.it/Normative/Legge_22_aprile_1941_n.633.pdf) (Legge del 22 aprile 1941, n. 633, di seguito "LDA"), il cui testo originario è stato modificato con svariati interventi successivi, tra cui il [D.lgs n. 68/2003](https://www.camera.it/parlam/leggi/deleghe/03068dl.htm) e il [D.lgs n. 70/2003](https://www.camera.it/parlam/leggi/deleghe/03070dl.htm), che hanno dato attuazione alle previsioni delle Direttive Europee sopra menzionate. Rilevante sotto certi aspetti è, altresì, il Decreto Legislativo 22 gennaio 2004, n. 42, comunemente detto [Codice dei beni culturali e del paesaggio](https://www.camera.it/parlam/leggi/deleghe/testi/04042dl.htm).
+
+## Concetti base del diritto d'autore
+
+**Opera:** il primo concetto chiave in tema di diritto d'autore è quello di "opera dell'ingegno". [L'art. 1](https://www.gazzettaufficiale.it/eli/id/1941/07/16/041U0633/sg) della LDA [non protegge le idee in sé ma le opere nelle quali queste idee trovano concreta espressione]{.ul}. Altro elemento che la norma individua ai fini della tutela è il "carattere creativo". Affinchè ci sia carattere creativo, l'opera deve soddisfare i criteri di originalità e novità, e dunque esprimersi in una forma che rechi, in qualsiasi modo, l'impronta di una elaborazione personale dell'autore.
+
+**Nascita del diritto in capo all'autore:** il momento della creazione dell'opera incide sulla nascita del diritto in capo all'autore. L['art. 6](https://www.gazzettaufficiale.it/eli/id/1941/07/16/041U0633/sg) LDA dispone, infatti, che il titolo originario dell'acquisto del diritto è costituito proprio dalla creazione dell'opera. In altri termini, la creazione dell'opera è sufficiente per vedersi riconosciuti i diritti previsti dalla Legge, senza che l'autore debba compiere ulteriori formalità e registrazioni, come invece è richiesto per la tutela dei titoli di proprietà industriale, come il brevetto o i marchi.
+
+Quanto detto ci conduce già ad una prima, importante considerazione: un'opera inedita creata e incorporata ad un NFT, qualora presenti un minimo carattere creativo, è tutelabile dalla LDA.
+
+**L'autore dell'opera:** ai sensi dell'[art. 8](https://www.gazzettaufficiale.it/eli/id/1941/07/16/041U0633/sg) della LDA, l'autore dell'opera è colui che, salvo prova contraria, è in essa indicato come tale nelle forme d'uso. All'autore, la LDA riconosce due categorie di diritti: i diritti morali e i diritti di utilizzazione economica.
+
+**I diritti morali** ([art. 20](https://www.gazzettaufficiale.it/eli/id/1941/07/16/041U0633/sg) LDA): rispondono alla necessità che il contributo intellettuale dell'autore non venga usurpato ed attribuito a terzi, né che la sua opera venga modificata, deturpata o mutilata con elementi estranei ai valori ed alla personalità dell'autore, che rechino pregiudizio alla reputazione. Sono personalissimi, incedibili ed imprescrittibili.
+
+**I diritti di utilizzazione economica** ([artt 12 - 19](https://www.gazzettaufficiale.it/eli/id/1941/07/16/041U0633/sg) LDA): consistono in facoltà esclusive, tra loro indipendenti, le quali possono essere trasferite tramite un contratto, e durano fino a 70 anni dopo la morte dell'autore e sono: il diritto di (prima) pubblicazione, il diritto di riproduzione, il diritto di trascrizione, il diritto di eseguire, rappresentare e recitare, il diritto di comunicare al pubblico, il diritto di distribuzione, il diritto di elaborazione ed il diritto di prestito o noleggio, ex art. 18-bis.
+
+**I diritti connessi:** oltre ai diritti riconosciuti in capo all'autore, e cioè a colui che ha composto le musiche e scritto i testi dell'opera, in ambito musicale esistono una serie di diritti connessi a quelli dell'autore che sono riconosciuti in capo ad altri soggetti, ossia agli "artisti interpreti ed esecutori", ed al "produttore di fonogrammi". La LDA riconosce ai titolari dei diritti connessi un diritto al compenso per l'utilizzazione a scopo di lucro delle registrazioni, a mezzo della cinematografia, della diffusione radiofonica e televisiva, la comunicazione al pubblico via satellite, e in occasione di qualsiasi altra pubblica utilizzazione dei fonogrammi stessi. In Italia sono attive diverse società che si occupano del collecting di diritti connessi. vale a dire che rilevano l'utilizzo di musica da parte degli utilizzatori professionali, rilasciano le licenze per la pubblica diffusione, incassano e ripartiscono i compensi agli aventi diritto.
+
+## La prova del diritto d'autore
+
+Con la creazione dell'opera, l'autore ne diventa titolare e può esercitare i diritti sopra descritti. Poiché detti diritti possono essere ceduti -- quelli di utilizzazione economica s'intende -- è rilevante riuscire a darne prova dell'esistenza e, soprattutto, riuscire a dare tracciabilità alle eventuali cessioni di tali diritti.
+
+La LDA anzitutto prevede, con l'[art. 110](https://www.gazzettaufficiale.it/eli/id/1941/07/16/041U0633/sg), che la trasmissione dei diritti di utilizzazione deve essere provata per iscritto.
+
+In secondo luogo, il Legislatore ha disposto l'istituzione di registri fisici pubblici dove vengono annotati tutti i fatti che riguardano un'opera, compresi, appunto, i suoi autori e tutte le cessioni di diritti che nel tempo di sono succedute.
+
+Detti registri sono affidati principalmente a Società di collecting, ossia enti di natura pubblica, privata o ibrida che si occupano dell'intermediazione dei diritti d'autore e connessi, nonché della raccolta e redistribuzione dei proventi relativi a tali diritti.
+
+In Italia, i registri sono custoditi principalmente presso la SIAE ([Società Italiana degli Autori ed Editori](https://www.siae.it/it)). Negli Stati Uniti, tale ruolo è ricoperto dal [Copyright Office di Washington](https://www.copyright.gov/).
+
+Ad oggi, tuttavia, questo sistema di registri fisici fatica a gestire efficacemente la tutela e la circolazione dei diritti d'autore, e ciò per varie ragioni, a partire dalla proverbiale burocratizzazione delle procedure di accesso a questo sistema centralizzato.
+
+Inoltre, va considerato che se per gli autori di opere musicali l'adesione ad una società di collecting risulta necessaria al fine di ricevere una ripartizione dei compensi per lo sfruttamento delle loro opere, in particolare per la pubblica esecuzione e per la riproduzione meccanica, tale esigenza non ricorre per gli autori di opere appartenenti ad altri ambienti artistici.
+
+La conseguenza, in ogni caso, è che sono sempre meno gli artisti che iscrivono le loro opere ai registri.
+
+## L'intervento nella tecnologia blockchain
+
+La tecnologia blockchain potrebbe portare ad una vera rivoluzione nell'ambito dell'attività di tutela ed amministrazione del diritto d'autore nonché costituire una soluzione particolarmente efficiente dal momento che la blockchain può essere sfruttata per la creazione di database decentralizzati delle opere, garantendo al contempo l'immodificabilità e la certezza dei dati contenuti. Potrebbe, inoltre, portare al perfezionamento dell'attività di collecting attraverso il monitoraggio più accurato delle utilizzazioni delle opere.
+
+Il 24 marzo SIAE ha annunciato in conferenza stampa che abbraccerà la tecnologia NFT, già a dicembre 2019 la società di collecting aveva comunicato la propria intenzione di utilizzare il sistema di blockchain per implementare la gestione dei diritti.
+
+Grazie alla possibilità di abbinare clausole contrattuali sotto forma di protocolli informatici automatizzati (c.d. smart contract) alle opere sarà, inoltre, possibile - ove consentito - perseguire l'obiettivo della remunerazione diretta dell'autore.
+
+Ugualmente, potrà essere possibile amministrare licenze di sfruttamento economico dell'opera da parte del titolare dei relativi diritti, incorporando tali licenze nello smart contract.
+
+## Blockchain NFT diritto di seguito e autenticità dell'opera nell'arte figurativa
+
+Le applicazioni blockchain maggiormente esplorate nell'ambito artistico attualmente hanno a che vedere con le arti figurative. La tecnologia blockchain, come abbiamo già avuto modo di precisare, consente -- tra l'altro - di certificare lo storico delle cessioni del NFT, nonché della paternità dell'opera ad esso incorporata.
+
+Concretamente sarà quindi molto più facile veder rispettato il c.d. diritto di seguito relativo alle opere d'arte figurative.
+
+L'istituto del diritto di seguito ha una storia particolare, e pare sia nato in seguito alle vicende legate alla vendita de "L'Angelus" di Jean-François Millet, da parte del magnate francese Eugène Secrétan. Il *droit de suite* entrò a far parte della legislazione francese nel 1920*.* Il Legislatore italiano inserì l'istituto già all'interno del testo originale della LDA del 1941, tuttavia è rimasto inattuato fino al 2006, anno in cui il nostro ordinamento ha recepito la [Direttiva europea 2001/84/CE](https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32001L0084&from=EN) che ha imposto ai membri della UE l'introduzione del diritto di seguito secondo il criterio delle vendite, anche grazie all'intermediazione della SIAE che ne gestisce coattivamente la riscossione.
+
+Se è vero che solo a partire da quell'anno in Italia il diritto di seguito è stato attuato, c'è da precisare che, in concreto, le condizioni necessarie alla sua riscossione ne limitano fortemente l'applicazione.
+
+Ma in che cosa consiste esattamente?
+
+Il diritto di seguito è il diritto dell'artista di seguire la fortuna delle opere da lui create anche dopo averle vendute, o comunque cedute ad altri, e di conseguenza di partecipare all'eventuale incremento del loro valore, che nel corso del tempo e in relazione alla fama raggiunta potrà risultare anche esponenziale.
+
+In considerazione di questa ragione, il diritto di seguito non può formare oggetto di alienazione, né di rinuncia, nemmeno in via preventiva, e nemmeno è soggetto a preventiva autorizzazione da parte dell'artista, ma si presenta come diritto ad un compenso, la cui misura è costituita da una percentuale fissata dalla Legge.
+
+Le condizioni perché si applichi il diritto di seguito, sono le seguenti:
+
+* la transazione deve avvenire tramite un professionista del settore dell'arte, tipicamente gallerie d'arte e case d'asta;
+* le transazioni devono concludersi al prezzo di vendita (al netto dell'IVA) non inferiore a €3.000;
+* le vendite debbono essere denunciate, a cura del professionista intervenuto quale venditore acquirente o intermediario, mediante dichiarazione alla SIAE;
+* l'importo dovuto all'autore è versato dal professionista a SIAE, che successivamente si adopera per conferirlo all'autore.
+
+Come affermato all'inizio del presente paragrafo, la possibilità di tracciare le vendite di un'opera contenuta nel NFT, può portare, tramite l'applicazione di percentuali sulle successive vendite del NFT, ad un'attuazione costante e concreta del diritto di seguito.
+
+Regola fondamentale nel mercato dell'arte è quella secondo cui chi vende l'opera deve garantirne l'autenticità.
+
+L'attuale disciplina contenuta nell'art. 64 del Codice dei beni culturali e del paesaggio prevede, infatti, che chiunque eserciti l'attività di vendita al pubblico, di esposizione a fini di commercio o di intermediazione finalizzata alla vendita di opere di pittura, di scultura, di grafica ovvero di oggetti d'antichità o di interesse storico od archeologico, o comunque abitualmente vende le opere o gli oggetti medesimi, ha l'obbligo di consegnare all'acquirente la documentazione che ne attesti l'autenticità o almeno la probabile attribuzione e la provenienza delle opere medesime.
+
+In mancanza della documentazione, vige l'obbligo di rilasciare, con le modalità previste dalle disposizioni legislative e regolamentari in materia di documentazione amministrativa, una dichiarazione recante tutte le informazioni disponibili sull'autenticità o la probabile attribuzione e la provenienza. Insomma, si tratta di una "notarizzazione" dell'opera.
+
+Le modalità di attribuzione e di autenticazione di opere differiscono poi a seconda che si tratti di un'opera di autore vivente o meno.
+
+Nel primo caso, l'autentica può essere richiesta alla galleria o al professionista dell'arte, se l'acquisto è stato fatto per il suo tramite, ovvero direttamente all'artista il quale, ai sensi dell'art. 20 LDA, ha facoltà di riconoscere sempre la paternità. Nel caso in cui si tratti di autore defunto, viene in rilievo l'art. 23 LDA per cui alla morte dell'autore, il diritto morale di attribuzione della paternità dell'opera può essere esercitato dai suoi eredi.
+
+La facoltà di autentica non deve però essere intesa come un diritto riservato in esclusiva ai soggetti sopra menzionati. Il parere in merito all'autenticità ed all'attribuzione di un'opera d'arte può essere rilasciato da chiunque sia competente ed autorevole, non trattandosi di un diritto spettante in via esclusiva agli eredi dell'artista.
+
+In ogni caso, quello che la Legge non specifica è quali requisiti formali un certificato di autenticità dell'opera debba soddisfare per essere considerato valido.
+
+L'art. 64 di fatto si limita a fare riferimento ad una generica documentazione o, in alternativa. Ad una dichiarazione.
+
+L'esperienza ha suggerito di consegnare all'acquirente una riproduzione fotografica dell'opera con la retroscritta dichiarazione di autenticità, e la descrizione tecnica dell'opera (autore, titolo, tecnica, dimensioni, anni di realizzazione, provenienza). Dichiarazione che deve essere sottoscritta dall'artista, o dagli altri soggetti che hanno autenticato l'opera, dal venditore professionista.
+
+Attualmente, gli NFT a cui vengono incorporate opere d'arte sono principalmente questo: un certificato di autenticità dell'opera in esso incorporata.
+
+Ma un NFT può essere molto di più. Infatti, il suo utilizzo in ambito artistico non solo può essere la soluzione ottimale in termini di "notarizzazione" dell'opera, ma può intervenire sulle opportunità di automatizzazione della gestione dei singoli diritti d'autore esistenti sull'opera, come sopra descritti, e dallo sfruttamento economico degli stessi.
+
+Per contro in tema di autenticità non sono ancora state messe a punto tecniche utili per garantire l'identità del soggetto che asserisce di essere l'autore di un'opera. Se nel caso dell'autentica "cartacea" è possibile effettuare una perizia grafologica sulla firma dell'autore, con lo smart contract ciò non è possibile e c'è anche il rischio concreto che un soggetto terzo rispetto all'autore si spacci per quest'ultimo immettendo sul mercato dei falsi.
+
+Una soluzione potrebbe essere quella di far firmare all'autore lo smart contract con un sistema di firma digitale certificata così da garantire l'identità del contractor. Diversamente l'incertezza circa l'identità dell'autore potrebbe portare ad una diminuzione del valore dell'opera senza contare al rischio di scamming che potrebbe generarsi.
+
+## Brucia l'arte e mettila su NFT -- La distruzione dell'opera fisica
+
+Ha suscitato interesse una recente vicenda che ha interessato un'opera di Bansky. L'azienda Injective Protocol, titolare di una piattaforma di Decentralized Derivatives Trading (DeFi) pare infatti abbia compiuto un singolare gesto dando fuoco ad una stampa del 2006 del noto artista intitolata Morons, ed autenticata dalla Pest Control (la società che garantisce l'autografia delle opere di Banksy).
+
+L'opera era stata acquistata dall'azienda Injective Protocol ed è stata poi rivenduta dalla medesima, dopo essere stata arsa, sotto forma di NFT, attività che ne ha incrementato esponenzialmente il valore.
+
+La domanda che sorge spontanea è la seguente: colui che ha acquistato un'opera d'arte può distruggerla liberamente senza che l'autore possa opporsi?
+
+Come abbiamo argomentato nei precedenti paragrafi, l'autore di un'opera può cedere e spogliarsi dei diritti di utilizzazione economica, tuttavia rimane sempre titolare dei diritti morali.
+
+Sul tema, rileva in particolare la questione del diritto all'integrità dell'opera, di cui all'art. 20 LDA.
+
+Il dettato, tuttavia, non vieta espressamente la distruzione dell'opera, ma menziona *"qualsiasi deformazione, mutilazione od altra modificazione"*.
+
+La prima deduzione che ne consegue è che la LDA non contempla l'interesse all'esistenza dell'opera in quanto tale.
+
+In secondo luogo, la norma menzionata specifica che l'autore può opporsi quando quegli atti compiuti sull'opera possano procurare un pregiudizio al suo onore o alla sua reputazione.
+
+Posto che è evidente che la distruzione dell'opera non può configurare *in re ipsa* un pregiudizio all'autore, si conviene che non si può dare una risposta valida in assoluto, dovendosi, viceversa, valutare il singolo episodio di distruzione per comprendere se da esso è stato arrecato, o meno, un vulnus all'onore o alla reputazione artistica dell'autore.
+
+Vale tuttavia la pena di effettuare un'ultima considerazione sulla natura delle opere che sono oggetto di NFT.
+
+Nella maggior parte dei casi, infatti, l'opera vera e propria non si trova all'interno del token, in quest'ultimo -- infatti -- per questioni di "spazio" molto spesso c'è un URL che reindirizza all'opera. Questo URL di regola è consultabile da chiunque lo navighi, in sostanza l'opera è visionabile da chiunque lo voglia, che cosa possiede l'autore del token allora?
+
+Ha il diritto di disporre del certificato di autenticità e di proprietà che sono all'interno del proprio wallet. Nel caso dell'opera di Banksy, dunque, se da un lato è stata distrutta l'opera fisica, dall'altro restano in vita e sono commerciabili i predetti certificati.
