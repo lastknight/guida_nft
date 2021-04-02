@@ -1,134 +1,43 @@
-## Cosa è un Non Fungible Token
+# Cosa è un Non Fungible Token
 
-Quando si parla di Non Fungible Token, conviene prima capire cosa sono,
-di contro, i token fungibili.
+Quando si parla di Non Fungible Token, conviene prima capire cosa sono, di contro, i token fungibili.
 
-Consideriamo, innanzitutto, la definizione di "fungibile". Il termine si
-riferisce ai beni acquistati che possono essere sostituiti da un bene
-identico, come una chilogrammo di farina, un'oncia d'oro, un barile di
-petrolio greggio. Quando ne comprate uno, non vi importa quale prendete.
+Consideriamo, innanzitutto, la definizione di "fungibile". Il termine si riferisce ai beni acquistati che possono essere sostituiti da un bene identico, come una chilogrammo di farina, un'oncia d'oro, un barile di petrolio greggio. Quando ne comprate uno, non vi importa quale prendete.
 
-Al contrario, un'autovettura è un bene "non fungibile": se ordinate una
-Tesla Model 3, non sarete soddisfatti con un esemplare qualsiasi che
-esce dalla fabbrica, ma ne vorrete una che corrisponde al colore, agli
-accessori ed all'assetto che avete ordinato. A quell'automobile verrà
-assegnata una targa e verrà generato un certificato di proprietà. L'NFT
-può essere assimilato a quel certificato di proprietà. Le opere d'arte
-sono un altro esempio di beni non fungibili: c'è solo un dipinto della
-Monna Lisa nel mondo e, se un privato lo acquistasse, vorrebbe poter
-possedere quello e solo quello.
+Al contrario, un'autovettura è un bene "non fungibile": se ordinate una Tesla Model 3, non sarete soddisfatti con un esemplare qualsiasi che esce dalla fabbrica, ma ne vorrete una che corrisponde al colore, agli accessori ed all'assetto che avete ordinato. A quell'automobile verrà assegnata una targa e verrà generato un certificato di proprietà. L'NFT può essere assimilato a quel certificato di proprietà. Le opere d'arte sono un altro esempio di beni non fungibili: c'è solo un dipinto della Monna Lisa nel mondo e, se un privato lo acquistasse, vorrebbe poter possedere quello e solo quello.
 
-**I Fungible Token** (FT) sono tali che una parte o quantità può essere
-sostituita da un'altra parte o quantità uguale, cioè possono essere
-facilmente scambiati con un altro oggetto o valore. Ogni token è uguale
-ad ogni altro del suo genere ed è capace di sostituzione reciproca. Per
-esempio, se qualcuno prende in prestito 1 ETH (Ether è una criptovaluta,
-necessaria per operare sulla blockchain di Ethereum), molto
-probabilmente spenderà quel 1 ETH e restituirà un altro 1 ETH dello
-stesso valore. Il mutuatario potrebbe anche restituire, ad esempio, 0,5
-ETH in due tranches, il che significa che i token fungibili sono
-divisibili.
+* **I Fungible Token** (FT) sono tali che una parte o quantità può essere sostituita da un'altra parte o quantità uguale, cioè possono essere facilmente scambiati con un altro oggetto o valore. Ogni token è uguale ad ogni altro del suo genere ed è capace di sostituzione reciproca. Per esempio, se qualcuno prende in prestito 1 ETH (Ether è una criptovaluta, necessaria per operare sulla blockchain di Ethereum), molto probabilmente spenderà quel 1 ETH e restituirà un altro 1 ETH dello stesso valore. Il mutuatario potrebbe anche restituire, ad esempio, 0,5 ETH in due tranches, il che significa che i token fungibili sono divisibili.
 
-Un **token non fungibile** (**non-fungible token**, o NFT) è un tipo
-speciale di [token
-crittografico](https://it.wikipedia.org/wiki/Criptovaluta) che
-rappresenta qualcosa di unico; gli NFT non sono quindi reciprocamente
-intercambiabili: possono essere scambiati con la stessa quantità dello
-stesso tipo, proprio perché unici, possibilmente rari (scarsi) e perchè
-ognuno possiede diverse funzionalità e caratteristiche. Un esempio, nel
-mondo reale, può essere un oggetto che non può essere sostituito da un
-altro simile, come il quadro della Monna Lisa. Se qualcuno prende in
-prestito questo quadro, deve restituire esattamente lo stesso quadro. Si
-può anche immaginare gli NFT come una forma virtuale del famoso
-videogioco degli anni '90 denominato Tamagotchi. Ogni Tamagotchi era
-diverso dagli altri ed aveva una sua personalità, funzionalità
-specifiche ed altre proprietà uniche.
+* Un **token non fungibile** (**non-fungible token**, o NFT) è un tipo speciale di [token crittografico](https://it.wikipedia.org/wiki/Criptovaluta) che rappresenta qualcosa di unico; gli NFT non sono quindi reciprocamente intercambiabili: possono essere scambiati con la stessa quantità dello stesso tipo, proprio perché unici, possibilmente rari (scarsi) e perchè ognuno possiede diverse funzionalità e caratteristiche. Un esempio, nel mondo reale, può essere un oggetto che non può essere sostituito da un altro simile, come il quadro della Monna Lisa. Se qualcuno prende in prestito questo quadro, deve restituire esattamente lo stesso quadro. Si può anche immaginare gli NFT come una forma virtuale del famoso videogioco degli anni '90 denominato Tamagotchi. Ogni Tamagotchi era diverso dagli altri ed aveva una sua personalità, funzionalità specifiche ed altre proprietà uniche.
 
-Una delle principali differenze tra token fungibili e non fungibili è,
-come già accennato, il fatto che i primi sono divisibili in frazioni,
-mentre i secondi sono definitivamente indivisibili.
+Una delle principali differenze tra token fungibili e non fungibili è, come già accennato, il fatto che i primi sono divisibili in frazioni, mentre i secondi sono definitivamente indivisibili.
 
-Gli NFT vengono utilizzati per creare scarsità digitale verificabile,
-proprietà digitale e/o possibilità di interoperabilità delle risorse su
-più piattaforme. Gli NFT vengono utilizzati in diverse applicazioni
-specifiche, che richiedono oggetti digitali unici come crypto art,
-oggetti da collezione digitali e giochi online.
+Gli NFT vengono utilizzati per creare scarsità digitale verificabile, proprietà digitale e/o possibilità di interoperabilità delle risorse su più piattaforme. Gli NFT vengono utilizzati in diverse applicazioni specifiche, che richiedono oggetti digitali unici come crypto art, oggetti da collezione digitali e giochi online.
 
-Gli NFT rappresentano quindi un'evoluzione della proprietà fisica di un
-determinato bene. Sono degli asset digitali unici che permettono a chi
-li usa di esserne i veri proprietari. Possono essere scambiati in
-marketplace appositi creando così un processo di tokenizzazione dalla
-realtà al digitale.
+Gli NFT rappresentano quindi un'evoluzione della proprietà fisica di un determinato bene. Sono degli asset digitali unici che permettono a chi li usa di esserne i veri proprietari. Possono essere scambiati in marketplace appositi creando così un processo di tokenizzazione dalla realtà al digitale.
 
-Dal punto di vista informatico, ogni NFT deve sottostare a queste rigide
-**regole**:
+Dal punto di vista informatico, ogni NFT deve sottostare a queste rigide **regole**:
 
 -   Ogni NFT è **unico**
-
 -   Ogni NFT è **indivisibile**, non è cioè possibile possedere una porzione di NFT
-
 -   Ogni NFT possiede un **ID univoco**, tale cui la coppia (indirizzo contratto, token ID) sia unica all'interno dell'ecosistema di riferimento.
 
-Approfondendo le caratteristiche proprie di questi token, rientrano
-quindi l'unicità, la scarsità, l'indivisibilità (possono essere venduti,
-acquistati, trasferiti solo interamente).
+Approfondendo le caratteristiche proprie di questi token, rientrano quindi l'unicità, la scarsità, l'indivisibilità (possono essere venduti, acquistati, trasferiti solo interamente).
 
-Ci sono vari protocolli che consentono l'emissione di NFT. Ad oggi, il
-più conosciuto è
-[ERC-721](https://ethereum.org/it/developers/docs/standards/tokens/erc-721/),
-uno standard per l'emissione e lo scambio di asset non fungibili sulla
-blockchain di *Ethereum*. Più recentemente è stato rilasciato anche il
-protocollo [ERC-1155](https://eips.ethereum.org/EIPS/eip-1155),
-che permette di inserire all'interno del contratto sia token fungibili
-che token non fungibili (Pensate ad una determinata arma virtuale in un
-gioco di ruolo digitale: ne esistono solo 100 esemplari e i giocatori se
-le scambiano tra loro e le custodiscono nei rispettivi wallet).
+Ci sono vari protocolli che consentono l'emissione di NFT. Ad oggi, il più conosciuto è [ERC-721](https://ethereum.org/it/developers/docs/standards/tokens/erc-721/), uno standard per l'emissione e lo scambio di asset non fungibili sulla blockchain di *Ethereum*. Più recentemente è stato rilasciato anche il protocollo [ERC-1155](https://eips.ethereum.org/EIPS/eip-1155), che permette di inserire all'interno del contratto sia token fungibili che token non fungibili (Pensate ad una determinata arma virtuale in un gioco di ruolo digitale: ne esistono solo 100 esemplari e i giocatori se le scambiano tra loro e le custodiscono nei rispettivi wallet).
 
-In realtà, a partire dal 2017 - anno di creazione dei primi token
-collezionabili denominati Cryptokitties e rilasciati sulla rete Ethereum
-proprio grazie al protocollo ERC-721 - sono sorte decine di blockchain
-alternative che si prefiggono specificamente di mettere a disposizione
-tecnologie per la creazione, la gestione, la diffusione e lo scambio di
-token crittografici NFT. A questo
-[indirizzo](https://coinmarketcap.com/view/collectibles-nfts/)
-possono essere visionati i progetti attualmente esistenti, indicizzati
-per capitalizzazione del mercato.
+In realtà, a partire dal 2017 - anno di creazione dei primi token collezionabili denominati Cryptokitties e rilasciati sulla rete Ethereum proprio grazie al protocollo ERC-721 - sono sorte decine di blockchain alternative che si prefiggono specificamente di mettere a disposizione tecnologie per la creazione, la gestione, la diffusione e lo scambio di token crittografici NFT. A questo [indirizzo](https://coinmarketcap.com/view/collectibles-nfts/) possono essere visionati i progetti attualmente esistenti, indicizzati per capitalizzazione del mercato.
 
-Gli usi dei token non fungibili sono innumerevoli. La tokenizzazione
-permette teoricamente di sostituire dati preziosi e/o sensibili, beni,
-diritti, carte di pagamento ed altro, con creazione di uno speculare
-asset digitale unico, non modificabile, certificato, scambiabile
-liberamente.
+Gli usi dei token non fungibili sono innumerevoli. La tokenizzazione permette teoricamente di sostituire dati preziosi e/o sensibili, beni, diritti, carte di pagamento ed altro, con creazione di uno speculare asset digitale unico, non modificabile, certificato, scambiabile liberamente.
 
-**GAMING:** Gli NFT servono come oggetti da collezione digitali o
-oggetti di scena per il gioco, come armi, vestiti e altri oggetti.
-Questo fondamentalmente crea la scarsità digitale per i gadget nei
-videogiochi ed è un nuovo modo di utilizzare la tecnologia blockchain
-decentralizzata nel gioco per mantenere oggetti scarsi, invece di fare
-affidamento sulla centralizzazione, la sicurezza e la convalida del
-creatore del gioco.
+**GAMING:** Gli NFT servono come oggetti da collezione digitali o oggetti di scena per il gioco, come armi, vestiti e altri oggetti. Questo fondamentalmente crea la scarsità digitale per i gadget nei videogiochi ed è un nuovo modo di utilizzare la tecnologia blockchain decentralizzata nel gioco per mantenere oggetti scarsi, invece di fare affidamento sulla centralizzazione, la sicurezza e la convalida del creatore del gioco.
 
-**PROPRIETÀ INTELLETTUALE** - Gli NFT potrebbero rappresentare un
-quadro, una canzone, un brevetto o altri diritti di proprietà
-intellettuale. Ci sono aziende che vendono token come licenze. La
-tokenizzazione dei diritti IP permetterà agli autori di controllare il
-loro lavoro e assicurarsi che vengano pagati adeguatamente.
+**PROPRIETÀ INTELLETTUALE** - Gli NFT potrebbero rappresentare un quadro, una canzone, un brevetto o altri diritti di proprietà intellettuale. Ci sono aziende che vendono token come licenze. La tokenizzazione dei diritti IP permetterà agli autori di controllare il loro lavoro e assicurarsi che vengano pagati adeguatamente.
 
-**REAL ESTATE** - immobili, oggetti preziosi, veicoli e tutte le altre
-proprietà possono essere tokenizzate e la loro tokenizzazione può essere
-utilizzata per il finanziamento, l'espansione o la potenziale liquidità
-della proprietà.
+**REAL ESTATE** - immobili, oggetti preziosi, veicoli e tutte le altre proprietà possono essere tokenizzate e la loro tokenizzazione può essere utilizzata per il finanziamento, l'espansione o la potenziale liquidità della proprietà.
 
-**SELF SOVEREIGN IDENTITY** - gli NFT possono anche servire per
-verificare l'identità o rappresentare certificati di nascita, licenze,
-credenziali accademiche, onorificenze e altro. Tutti questi oggetti
-possono essere tenuti al sicuro in forma digitale e preservati da
-contraffazioni o abusi.
+**SELF SOVEREIGN IDENTITY** - gli NFT possono anche servire per verificare l'identità o rappresentare certificati di nascita, licenze, credenziali accademiche, onorificenze e altro. Tutti questi oggetti possono essere tenuti al sicuro in forma digitale e preservati da contraffazioni o abusi.
 
-**DOCUMENTI FINANZIARI** - i documenti finanziari (fatture, ordini,
-garanzie, bollette, ecc.) possono essere trasformati in NFT e scambiati
-con essi.
+**DOCUMENTI FINANZIARI** - i documenti finanziari (fatture, ordini, garanzie, bollette, ecc.) possono essere trasformati in NFT e scambiati con essi.
 
-Gli NFT potrebbero anche essere usati per TICKETING, LOYALTY POINTS,
-PROCEDURE KYC e SELF SOVEREIGN IDENTITY, PROGRAMMI UMANITARI, SUPPLY
-CHAIN TRACKING, e molto altro.
+Gli NFT potrebbero anche essere usati per TICKETING, LOYALTY POINTS, PROCEDURE KYC e SELF SOVEREIGN IDENTITY, PROGRAMMI UMANITARI, SUPPLY CHAIN TRACKING, e molto altro.
