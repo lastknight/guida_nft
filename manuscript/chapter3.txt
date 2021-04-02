@@ -30,19 +30,19 @@ In realtà, a partire dal 2017 - anno di creazione dei primi token collezionabil
 
 Gli usi dei token non fungibili sono innumerevoli. La tokenizzazione permette teoricamente di sostituire dati preziosi e/o sensibili, beni, diritti, carte di pagamento ed altro, con creazione di uno speculare asset digitale unico, non modificabile, certificato, scambiabile liberamente.
 
-## GAMING
+**GAMING**
 
 Gli NFT servono come oggetti da collezione digitali o oggetti di scena per il gioco, come armi, vestiti e altri oggetti. Questo fondamentalmente crea la scarsità digitale per i gadget nei videogiochi ed è un nuovo modo di utilizzare la tecnologia blockchain decentralizzata nel gioco per mantenere oggetti scarsi, invece di fare affidamento sulla centralizzazione, la sicurezza e la convalida del creatore del gioco.
 
-## PROPRIETÀ INTELLETTUALE
+**PROPRIETÀ INTELLETTUALE**
 
 Gli NFT potrebbero rappresentare un quadro, una canzone, un brevetto o altri diritti di proprietà intellettuale. Ci sono aziende che vendono token come licenze. La tokenizzazione dei diritti IP permetterà agli autori di controllare il loro lavoro e assicurarsi che vengano pagati adeguatamente.
 
-## REAL ESTATE
+**REAL ESTATE**
 
 Immobili, oggetti preziosi, veicoli e tutte le altre proprietà possono essere tokenizzate e la loro tokenizzazione può essere utilizzata per il finanziamento, l'espansione o la potenziale liquidità della proprietà.
 
-SELF SOVEREIGN IDENTITY
+**SELF SOVEREIGN IDENTITY**
 
 Gli NFT possono anche servire per verificare l'identità o rappresentare certificati di nascita, licenze, credenziali accademiche, onorificenze e altro. Tutti questi oggetti possono essere tenuti al sicuro in forma digitale e preservati da contraffazioni o abusi.
 
