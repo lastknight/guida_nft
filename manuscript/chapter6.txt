@@ -147,3 +147,5 @@ Vale tuttavia la pena di effettuare un'ultima considerazione sulla natura delle 
 Nella maggior parte dei casi, infatti, l'opera vera e propria non si trova all'interno del token, in quest'ultimo -- infatti -- per questioni di "spazio" molto spesso c'è un URL che reindirizza all'opera. Questo URL di regola è consultabile da chiunque lo navighi, in sostanza l'opera è visionabile da chiunque lo voglia, che cosa possiede l'autore del token allora?
 
 Ha il diritto di disporre del certificato di autenticità e di proprietà che sono all'interno del proprio wallet. Nel caso dell'opera di Banksy, dunque, se da un lato è stata distrutta l'opera fisica, dall'altro restano in vita e sono commerciabili i predetti certificati.
+
+![]()/museo2.jpeg)
