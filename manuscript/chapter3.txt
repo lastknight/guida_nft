@@ -46,6 +46,6 @@ Immobili, oggetti preziosi, veicoli e tutte le altre proprietà possono essere t
 
 Gli NFT possono anche servire per verificare l'identità o rappresentare certificati di nascita, licenze, credenziali accademiche, onorificenze e altro. Tutti questi oggetti possono essere tenuti al sicuro in forma digitale e preservati da contraffazioni o abusi.
 
-## DOCUMENTI FINANZIARI
+** DOCUMENTI FINANZIARI**
 I documenti finanziari (fatture, ordini, garanzie, bollette, ecc.) possono essere trasformati in NFT e scambiati con essi.  
 Gli NFT potrebbero anche essere usati per TICKETING, LOYALTY POINTS, PROCEDURE KYC e SELF SOVEREIGN IDENTITY, PROGRAMMI UMANITARI, SUPPLY CHAIN TRACKING, e molto altro.
