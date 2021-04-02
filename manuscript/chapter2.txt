@@ -1,17 +1,52 @@
-# Chapter Two
+## La blockchain e l'ecosistema dei token
 
-Here are some quick Markdown examples to get you started.
+È difficile pensare che, al giorno d'oggi, ci sia qualcuno che non ha ancora sentito almeno una volta il termine *blockchain*: in questo
+preciso momento storico, essa è al centro di un movimento spontaneo di *digital innovation* che sta catalizzando grande attenzione. Troppo spesso, tuttavia, vi è una certa confusione, tra valute virtuali, crypto-asset, piattaforme blockchain, smart contract e token dalle diverse funzionalità.
 
-To start a new paragraph, hit the return key twice. You want to create a blank line between paragraphs.
+La blockchain, in realtà, viene inclusa nella più ampia famiglia delle tecnologie di Distributed Ledger (DLT), ossia sistemi che si basano su un registro distribuito, che può essere letto e modificato da più nodi di una rete. Per validare le modifiche da effettuare al registro, in assenza di un ente centrale, i nodi devono raggiungere il consenso. Le modalità con cui si raggiunge il consenso e la struttura del registro sono alcune delle caratteristiche che connotano le diverse tecnologie DLT.
 
-To *italicize*, surround a word in asterisks.
+Un token su una blockchain consiste, invece, in un'informazione digitale registrata su un registro distribuito, univocamente associata a uno e un solo specifico utente del sistema e rappresentativa di una qualche forma di diritto: la proprietà di un asset, l'accesso a un servizio, la ricezione di un pagamento, e così via. È utile, quindi, inquadrare le principali tipologie di token in base al loro status giuridico:
 
-To **bold**, use two asterisks.
+**Utility token:** gli utility token solitamente forniscono l'accesso a un servizio digitale, in modo che i possessori abbiano accesso esclusivo a funzionalità all'interno di una rete o piattaforma decentralizzata.  
+Esempi di tali token sono Ether o Stellar. Il token è necessario per entrare in una piattaforma o in una rete ed utilizzarla. Sono paragonabili a un voucher e permettono di finanziare un progetto senza cedere e diluire la proprietà in una società ICO (una Initial Coin Offering è una metodologia che permette l'emissione di token, di solito per la raccolta di fondi).
 
-Here is a [link to the leanpub home-page](https://leanpub.com).
+**Security token:** i security token rappresentano la proprietà di un
+bene e concedono ai possessori di token diritti simili o uguali a quelli
+dei titoli - diritti di voto, dividendi, quote di profitto,
+partecipazione al successo di un'entità emittente, ecc. In termini di
+funzione economica, tali token sono beni di sicurezza, beni azionari
+(equity), debiti (obbligazioni) e passività. Essi concedono tutti o
+alcuni dei diritti dichiarati. I security token derivano il loro valore
+dall'asset sottostante, tuttavia, una differenza chiave è che in quanto
+token crittografici, rappresentano la proprietà programmabile, dando
+agli asset più funzionalità, più liquidità e più facile accesso al
+mercato, velocità nella creazione, meno intermediari, costi più bassi
+per l'emissione, trasparenza e automazione integrata dei processi
+legati alla sicurezza.
 
-Here's how you insert an image from the resources folder:
+**Payment token:** sono sinonimo di criptovalute e non hanno ulteriori
+funzioni o collegamenti ad altri progetti di sviluppo. I token possono
+in alcuni casi sviluppare solo la funzionalità necessaria e diventare
+accettati come mezzo di pagamento in un periodo di tempo. In alcuni
+casi, essi agiscono come riserva di valore e mezzo di scambio. Esempi di
+tali monete sono Bitcoin, Monero, Tether.
 
-![Palm Trees](palm-trees.jpg)
+Tali tipologie di token sono quelle indicate in un
+[rapporto](http://www.esma.europa.eu/sites/default/files/library/esma50-157-1391_crypto_advice.pdf)
+su Initial Coin Offerings e Crypto-Assets, redatto dalla European
+Securities and Markets Authority (ESMA), così come nelle [Linee Guida
+pubblicate dalla
+FINMA](http://www.esma.europa.eu/sites/default/files/library/esma50-157-1391_crypto_advice.pdf)
+(l'Autorità federale di vigilanza sui mercati finanziari della Svizzera,
+una delle prime nazioni al mondo a dotarsi di un framework normativo in
+materia), nonchè da ultimo riconosciute anche da Banca d'Italia in un
+documento intitolato \"[Aspetti economici e normativi della
+cripto-attività](https://www.bancaditalia.it/pubblicazioni/qef/2019-0484/QEF_484_19.pdf)"
+e dalla CONSOB nel suo "[Rapporto finale su Le offerte iniziali e gli
+scambi di
+cripto-attività](https://www.consob.it/documents/46180/46181/ICOs_rapp_fin_20200102.pdf/70466207-edb2-4b0f-ac35-dd8449a4baf1)".
 
-Chapter 3 tells you how to make a preview of your book.
+La maggior parte dei token crittografici in circolazione, tuttavia, sono
+ibridi e possono avere caratteristiche incluse nelle diverse categorie,
+nel senso che hanno caratteristiche di utilità e danno alcuni diritti di
+proprietà (soprattutto economici).

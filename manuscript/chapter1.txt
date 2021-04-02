@@ -1,6 +1,29 @@
-{sample: true}
-# Chapter One
+# In principio fu il bitcoin
 
-This is an example chapter of a Leanpub book.  To start writing your book, simply replace the contents of this text box with your first chapter.
+Nell'ottobre del 2008, un anonimo -- o un collettivo -- dietro lo pseudonimo di Satoshi Nakamoto ha pubblicato un documento intitolato
+"[Bitcoin: un sistema di moneta elettronica peer-to-peer](https://bitcoin.org/bitcoin.pdf)", che è poi diventato il whitepaper della valuta virtuale più conosciuta ed utilizzata nel mondo.
 
-Chapter 2 has a quick introduction to Markdown. Click on "Chapter 2" on the left to see them.
+In quella sede comparve per la prima volta in assoluto il termine bitcoin. Il misterioso Satoshi sosteneva di aver inventato una moneta elettronica che si appoggiava su una tecnologia peer-to-peer, in grado di creare un sistema monetario privo di una parte fiduciaria (come sono le banche) e di aver risolto uno dei problemi più importanti dei sistemi di pagamento elettronici e cioè il c.d. [double spending](https://medium.com/@marcocavicchioli/cos%C3%A8-e-come-funziona-il-double-spending-390b737fb255) (meccanismo fraudolento che consiste nello spendere lo stesso titolo valutario due o più volte).
+
+Il paper chiarisce che il Bitcoin non è altro che un protocollo che genera una rete tra pari, che permette ad ogni nodo che la compone di transare liberamente e in forma pseudo-anonima valore ad altri nodi della rete. Tale valore viene generato dal protocollo in modo tale da garantire scarsità, sicurezza nell'ordine delle transazioni, sicurezza del sistema stesso.
+
+Il termine bitcoin, in realtà, include due diversi significati: scritto con la lettera iniziale minuscola si riferisce alla ormai nota valuta virtuale (cryptocurrency), mentre "Bitcoin" con la lettera maiuscola individua il protocollo sviluppato per l'utilizzo della stessa.
+
+Bitcoin è una valuta paritaria (il trasferimento avviene tra persone collegate tra loro), decentralizzata (il trasferimento avviene senza il
+passaggio con un soggetto terzo) e digitale, la cui implementazione si basa sui principi della crittografia per convalidare le transazioni e la generazione di una rappresentazione digitale di valore. Con il termine crittografia si indica lo sviluppo di metodi per la conversione dei dati da un formato leggibile ad un formato codificato (una serie di cifre e lettere) che non può essere altrimenti letto o elaborato.
+
+Senza entrare nel dettaglio del protocollo (blockchain o "catena di blocchi"), vale la che le transazioni avvengono tramite firme digitali
+concatenate tra di loro in modo da creare una catena di firme digitali.  
+Ogni transazione contiene degli ingressi, che si riferiscono agli indirizzi da cui vengono inviati i bitcoin, e le uscite, che si riferiscono agli indirizzi a cui vengono inviati.
+
+Ha inoltre una serie di caratteristiche che lo rendono decisamente innovativo rispetto alle valute tradizionali (FIAT) e che gli consentono di risolvere molti problemi che la moneta non è riuscita a superare:
+
+-   **la decentralizzazione**: il fatto che nessuna autorità può controllare o gestire i flussi e il valore dei bitcoin;
+
+-   **la sicurezza**: nessuno può prelevare i fondi senza l'autorizzazione del proprietario delle chiavi crittografiche private connesse ad un wallet;
+
+-   **la trasparenza**: ogni transazione rimane visibile pubblicamente in eterno, non può essere cancellata dalla blockchain se non dietro a un accordo della maggior parte dei partecipanti alla rete stessa;
+
+-   **la velocità**: in condizioni di normalità, bastano pochi minuti per inviare o ricevere bitcoin in tutto il mondo;
+
+-   **la "non duplicabilità"**: risolve il problema del double spending.
