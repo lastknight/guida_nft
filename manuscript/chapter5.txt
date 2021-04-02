@@ -1,4 +1,4 @@
-## Aspetti legali dei Non Fungible Token
+# Aspetti legali dei Non Fungible Token
 
 La tecnologia blockchain è un *unicum* nel suo genere ed ha creato fenomeni nuovi, fino ad oggi inesplorati. Ugualmente, la digitalizzazione, fin dalla nascita dell'internet, ha creato uno spazio virtuale governato da leggi extra-territoriali, che nel corso degli anni ha dovuto trovare una regolamentazione a sè stante.
 

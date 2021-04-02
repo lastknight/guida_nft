@@ -1,0 +1,30 @@
+# DMCA e Legge sul diritto d'autore - due norme a confronto
+
+Il significato del presente confronto interessa in quanto gran parte delle Società che sviluppano piattaforme digitale per la creazione e commercializzazione di NFT hanno sede negli stati americani e pertanto adottano in prima battuta la normativa sul copyright territoriale.
+
+Il processo di convergenza tra la legislazione dei paesi dell'Unione Europea e quella Statunitense in materia di diritto d'autore, alla luce dei Trattati e delle Convenzioni internazionali di cui si è fatto richiamo nel testo, ha portato all'adozione di una normativa coerente e volta garantire uno standard minimo di tutela, garantendo inoltre il principio di reciprocità rispetto al riconoscimento delle opere tutelate.
+
+Il Copyright americano, anzitutto, è prevalentemente disciplinato dal Copyright Act del 1976, ed è stata fortemente influenzata dalla Convenzione di Berna, a cui gli USA hanno aderito nel 1989, e dai trattati WIPO che sono stati integrati tramite il DMCA.
+
+Le modifiche hanno interessato in particolare il sistema di computo della durata del diritto d'autore, nonché eliminato le formalità precedentemente previste circa l'efficacia costitutiva del diritto e, infine, limitato sensibilmente il campo di applicazione delle licenze obbligatorie.
+
+Tuttavia, persistono delle divergenze tra i due sistemi, che affondano le radici in differenze storiche e culturali dei due continenti. Gli aspetti più controversi sono quelli legati ai diritti morali ed alla disciplina del *fair use*.
+
+La concezione del diritto d'autore accolta in seno alla tradizione europea è sostanzialmente romantica, nel senso storico del termine, poiché influenzata dal pensiero dei grandi filosofi illuministi determinato a premiare il lavoro creativo ed intellettuale in quanto atto di realizzazione dello spirito dell'autore. Pertanto, al centro della protezione vi è la figura dell'autore, al quale è riconosciuto sia il diritto allo sfruttamento economico dell'opera, che quello alla protezione della sua reputazione.
+
+Nei Paesi di common law, quali gli USA, invece, il fondamento del copyright ha carattere sostanzialmente utilitaristico, in quanto il legislatore attribuisce i diritti sull'opera affinché l'autore fornisca un incentivo nei campi dell'economia e della cultura. In altri termini, l'opera risulta a tutti gli effetti come un bene materiale che il titolare può cedere completamente e sulla quale non ha diritti morali.
+
+Infatti, nonostante la ratifica della Convenzione di Berna, la successiva normativa di attuazione non ha contemplato alcuna previsione per adattare il Copyright Act alle disposizioni relative ai diritti morali previsti dalla Convenzione. Solo nel 1990, con l'entrata in vigore del VARA (Visual Artists Rights Act), è stata modificata la sez.301 del Copyright Act, sono stati riconosciuti i diritti morali esclusivamente agli autori di opere d'arte visive, lasciando in ogni caso scoperti gli artisti di altri ambiti.
+
+La dottrina del *fair use* consiste in un sistema generale di eccezioni e limitazioni ai diritti esclusivi riconosciuti titolare dell'opera creativa che, entro certi limiti, consente l'utilizzo della stessa senza la necessaria autorizzazione di quest'ultimo.
+
+Il principio nasce nel XVIII secolo in Inghilterra e si sviluppa prevalentemente in ambito giurisprudenziale negli Stati Uniti, fino alla sua codificazione all'interno del §107 del Copyright Act nel 1976. E' proprio l'origine giurisprudenziale, fondata sull'applicazione dell'*equity* da parte del giudicante, ad averne condizionato la portata.
+
+In base a quanto disposto da tale norma, infatti, va considerato lecito e non confliggente con le disposizioni in materia di diritto d'autore l'utilizzo dell'opera nel caso in cui la compressione dei diritti dell'autore sia giustificata da un interesse generale, che viene ritenuto prevalente rispetto a quello personale del titolare. Detto questo, il giudice è chiamata a valutare in concreto, seguendo quattro fattori:
+
+* lo scopo dell'utilizzo dell'opera, in particolare viene valutato se c'è finalità commerciale oppure uno scopo formativo senza fini di lucro;
+* la natura dell'opera d'ingegno;
+* la quantità di opera che viene utilizzata, e il ruolo che tale parte ricopre all'interno dell'opera stessa.
+* i potenziali effetti che l'utilizzo di quell'opera tramite fair use può causare al mercato dell'opera.
+
+L'approccio europeo in materia di eccezioni e limitazioni, è invece impostato su una tassativa definizione delle ipotesi specifiche da parte ad opera del Legislatore. La conseguenza che ne deriva è una minor elasticità rispetto al sistema del *fai use* americano, per cui l'adattamento della normativa europea alle nuove tipologie di sfruttamento dell'opera nel contesto delle nuove tecnologie non è stato sempre immediato, e sovente sono occorsi interventi interpretativi da parte della Corte di Giustizia Europea.

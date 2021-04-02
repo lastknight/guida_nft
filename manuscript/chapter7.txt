@@ -34,7 +34,7 @@ Successivamente si procede con la ricerca del NFT da acquistare, esistono due ti
 * Acquisto Immediato
 * Asta
 
-Per praticitá verrá scelta l'opzione "Buy Now":
+Per praticità verrà scelta l'opzione "Buy Now":
 
 ![](image5.png)
 ![](image13.png)
@@ -43,7 +43,7 @@ Verrà visualizzata una finestra con il dettaglio dell'ordine.
 
 L'opera con la funzione "Buy Now" ha un costo di 866.74 dollari, é necessario detenere all'interno del portafoglio gli ETH per l'acquisto, più la commissione della piattaforma 2.5% e le FEES della rete ethereum il cosiddetto "gas" o commissione di rete.
 
-Verrá illustrato il riepilogo ordine ed il processo di pagamento.
+Verrà illustrato il riepilogo ordine ed il processo di pagamento.
 
 Nel passaggio successivo vengono visualizzate le fees di network tramite popup per confermare la transazione e procedere con l'acquisto.
 
@@ -61,17 +61,17 @@ In passato é stata creata un'immagine dal titolo "Baby Moon", un'avatar virtual
 
 Con il solito portafoglio ethereum connesso, è possibile caricare il FILE prescelto (Jpeg, Png, Gif), le dimensioni del file risultano essere limitate a 30MB.
 
-Come si puó vedere nell'illustrazione in basso, é necessario scegliere il nome dell'opera, la descrizione e il numero di copie che si desidera vendere.
+Come si può vedere nell'illustrazione in basso, é necessario scegliere il nome dell'opera, la descrizione e il numero di copie che si desidera vendere.
 
 Inoltre é molto importante scegliere la giusta royalty (il c.d. diritto di seguito per ogni vendita dell'opera sul mercato secondario).
 
 Le royalty variano dal 10 al 30%, ogni volta che una risorsa digitale viene venduta, si ottiene la percentuale prescelta dal prezzo di vendita corrente, oppure come citato prima, é possibile decidere il prezzo per la vendita istantanea, "Buy Now".
 
-NB: non sará possibile modificare nessun dato se non il prezzo una volta inserito.
+NB: non sarà possibile modificare nessun dato se non il prezzo una volta inserito.
 
 Per prima cosa è necessario "coniare" il token non fungibile (NFT), quindi pagare delle commissioni ETH (che non prenderà Rarible, ma i minatori di ethereum).
 
-Sará necessario crearne uno nuovo e selezionare se l'opera sará singola, quindi unica oppure una serie numerata.
+Sarà necessario crearne uno nuovo e selezionare se l'opera sará singola, quindi unica oppure una serie numerata.
 
 ![](image6.png)
 
@@ -93,4 +93,4 @@ Le funzioni "APPROVE & UPLOAD FILES AND MINT TOKEN" servono per creare il token 
 
 ![](image1.png)
 
-Dopo aver eseguito il "mint" del NFT con l'ausilio di Ethereum, automaticamente la risorsa digitale verrá inserita all'interno del marketplace e sarà visibile anche all'interno del wallet personale.
+Dopo aver eseguito il "mint" del NFT con l'ausilio di Ethereum, automaticamente la risorsa digitale verrà inserita all'interno del marketplace e sarà visibile anche all'interno del wallet personale.

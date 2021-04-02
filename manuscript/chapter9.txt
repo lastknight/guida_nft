@@ -1,0 +1,51 @@
+# TOS e Copyright
+
+L'analisi dei TOS di 4 delle più importanti piattaforme utilizzate per la creazione e/o la commercializzazione dei NFT ha rivelato una coerenza di fondo nella disciplina minima di tutela, sebbene vi siano alcune specifiche degne di nota.
+
+Le piattaforme in questione sono le seguenti:
+* [SuperRare](https://superrare.co/)
+* [Nifty Gateway](https://niftygateway.com/)
+* [OpenSea](https://opensea.io/)
+* [Rarible](https://rarible.com/).
+
+La normativa applicata da tutte le piattaforme, relativamente al copyright ed alle segnalazioni di copyright infringement, è quella contenuta nel [Copyright Act](https://www.copyright.gov/title17/title17.pdf) e nel DMCA.
+
+Rispetto alla responsabilità dell'utente sulla titolarità dei diritti di copyright, le piattaforme sono coerenti nel disporre che:
+
+* l'utente si assume la responsabilità della qualità, dell'originalità e della titolarità dei diritti di proprietà intellettuale sui contenuti associati ai NFT;
+* la piattaforma qualifica come vietate le condotte dell'utente che carichi o renda disponibili file che contengono immagini, fotografie, software o altro materiale protetti dalle leggi sulla proprietà intellettuale e industriale, o dai diritti di privacy, a meno che l'utente in questione non possieda i relativi diritti o abbia ricevuto l'autorizzazione necessaria;
+* la piattaforma si riserva di rimuovere i contenuti che violinino le linee guida e le disposizioni dei TOS. La piattaforma Rarible specifica, altresì, che si riserva (ma non si obbliga) a monitorare i contenuti;
+* la piattaforma indica gli adempimenti specifici, le informazioni necessarie ed i contatti, al fine di attivare la procedura di *notice and take down* per il copyright infringemet, come previsto dal Digital Millenium Copyright Act, nonché le modalità con cui contestare eventuali rimozioni;
+
+Le piattaforme Rarible e SuperRare individuano espressamente un tema fondamentale, semplificato come segue: "*NFT Ownership ≠ Copyright Ownership*".
+
+In altri termini, la titolarità del diritto d'autore è separata e distinta dalla proprietà di qualsiasi oggetto materiale (es. un dipinto) o bene digitale (es. un token non fungibile) in cui l'opera è incorporata, a meno che le parti (autore ed acquirente) non abbiano concordato espressamente di cedere i diritti di proprietà intellettuale.
+
+Ma allora cosa cede l'artista all'utente che acquista un NFT a cui è abbinata l'opera?
+
+La questione è argomentata con accuratezza da SuperRare, sia nei TOS, che in un documento informativo *a latere* che concerne esclusivamente le linee guida della community sul Copyright.
+
+SuperRare prevede che l'acquirente del NFT contenente l'opera dell'artista, qualora non abbiano convenuto con il medesimo la cessione dei diritti d'autore sull'opera, e dunque qualora al NFT non siano abbinate anche le clausole di cessione dei diritti di proprietà intellettuale sull'opera, acquista esclusivamente la licenza per mostrare, promuovere e condividere (*to show off, promote, and share*) l'opera d'arte contenuta nel NFT.
+
+Gli utenti possono vendere, scambiare o trasferire i loro NFT, esibendo l'opera al loro interno, ma non possono, dunque, utilizzare commercialmente l'opera in esso abbinata. Per esempio, è fatto divieto agli acquirenti di vendere copie dell'opera, di coniare ulteriori NFT basati sull'opera, di vendere opere derivate che incorporino l'opera.
+
+Ancora, SuperRare argomenta che la licenza concessa all'utente che acquista il NFT abbinato all'opera, consente al medesimo la facoltà di esporre e condividere il contenuto pubblicamente:
+
+* (i) allo scopo di promuovere o condividere il suo acquisto, la proprietà sul NFT contenente l'opera, e/o il suo interesse per l'opera, su piattaforme digitali, per esempio, su social media, blog, o gallerie digitali;
+* (ii) allo scopo di condividere, promuovere, discutere o commentare l'opera;
+* (iii) per vendere o scambiare il NFT sui Marketplaces
+* (iv) all'interno di ambienti virtuali.
+
+L'autore, dal canto suo, mantiene pertanto il diritto esclusivo di utilizzazione economica della sua opera anche dopo la vendita sul marketplace del NFT che la incorpora.
+
+Ciò che l'autore ha il divieto di fare è, invece, vendere altri NFT abbinando la medesima opera.
+
+Altro punto molto interessante, precisato dalle [*[Copyright Guidelines and Policies]{.ul}*](https://www.notion.so/SuperRare-Copyright-Community-Guidelines-and-Policies-63a40f925a57471aabdceaf3adc0b0f5) di SuperRare, è quello relativo alla politica sul *fair use* applicato dalla Piattaforma. Dopo una precisa trattazione dell'istituto, arricchita da esempi grafici, SuperRare dichiara di non poter giudicare se la creazione di un Artista si qualifichi quale eccezione di *fair* use, poiché materia di competenza di un tribunale. La conseguenza è che, dovendosi la piattaforma adeguare alle previsioni Digital Millennium Copyright Act, in caso di condotta dell'utente che violi le Linee Guida della community o riceve denunce di violazione, la piattaforma intraprenderà qualsiasi azione disponibile a sua esclusiva discrezione, che si applichi o meno un'eccezione di *fair use* sul contenuto*.*
+
+Anche sul tema già sopra esposto relativo al diritto di seguito, la piattaforma di SuperRare si rivela la più innovativa tra quelle esaminate.
+
+I TOS di SuperRare dispongono, infatti, che ogni transazione effettuata sul marketplace è soggetta a commissioni, raccolte per sostenere sia gli Artisti che la Piattaforma. SuperRare anzitutto distingue tra vendita primaria e vendita secondaria.
+
+L'Artista riceve l'85% del Prezzo di Vendita totale per le vendite primarie, mentre sulle medesime SuperRare raccoglie il 15% del prezzo di vendita totale come commissione.
+
+Per le vendite sul mercato secondario, è invece previsto per l'Artista il 10% sul prezzo di vendita totale, corrisposto dal venditore. SuperRare, invece, raccoglie una commissione del 3% oltre il prezzo di vendita, per ogni vendita di un articolo SuperRare sul marketplace.
