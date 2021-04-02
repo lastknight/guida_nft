@@ -1,6 +1,12 @@
 # Autori e Ringraziamenti
 
-Gli autori di questa guida:
+Gli NFT sono artefatti digitali, in gergo "token non fungibili" che utilizzano la tecnologia blockchain per creare unicità e dare valore agli oggetti digitali, oppure per certificare ed autenticare oggetti fisici. Sono anche uno dei fenomeni del momento, con migliaia di autori al mondo che hanno saputo approfittare delle peculiarità di questo nuovo strumento per creare valore nelle loro opere. 
+
+Inizialmente, gli NFT hanno investito il mondo delle arti visive, creando nuove modalità di creazione e fruizione delle opere d’arte e stravolgendo il mercato, ma la vera rivoluzione della "tokenizzazione" deve ancora dispiegare i suoi effetti: offrirà una maggiore personalizzazione dei diritti e permetterà interazioni che prima non erano immaginabili.
+
+42 Law Firm, con la collaborazione dei suoi partner tecnologici, ha voluto raccogliere in una guida pratica tutto ciò che sappiamo ad oggi sugli NFT, per offrire uno strumento immediato e pratico che consenta a chiunque di comprendere questo nuovo fenomeno e di muovere anche in autonomia i primi passi in un fiorente e variegato mercato.  
+Non solo la guida che state per leggere vi guiderà passo a passo alla compravendita e creazione di semplici NFT, ma offre anche una prima disamina degli aspetti tecnici e legali di maggiore interesse, mettendo queste informazioni a disposizione di tutti coloro che sono incuriositi da questo nuovi strumenti di gestione della proprietà e dei diritti connessi.
+
 
 ### Lucia Maggi
 ![](image17.png)
