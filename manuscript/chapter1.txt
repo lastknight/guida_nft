@@ -1,6 +1,6 @@
 # In principio fu il bitcoin
 
-Nell'ottobre del 2008, un anonimo -- o un collettivo -- dietro lo pseudonimo di Satoshi Nakamoto ha pubblicato un documento intitolato
+Nell'ottobre del 2008, un anonimo - o un collettivo - dietro lo pseudonimo di Satoshi Nakamoto ha pubblicato un documento intitolato
 "[Bitcoin: un sistema di moneta elettronica peer-to-peer](https://bitcoin.org/bitcoin.pdf)", che è poi diventato il whitepaper della valuta virtuale più conosciuta ed utilizzata nel mondo.
 
 In quella sede comparve per la prima volta in assoluto il termine bitcoin. Il misterioso Satoshi sosteneva di aver inventato una moneta elettronica che si appoggiava su una tecnologia peer-to-peer, in grado di creare un sistema monetario privo di una parte fiduciaria (come sono le banche) e di aver risolto uno dei problemi più importanti dei sistemi di pagamento elettronici e cioè il c.d. [double spending](https://medium.com/@marcocavicchioli/cos%C3%A8-e-come-funziona-il-double-spending-390b737fb255) (meccanismo fraudolento che consiste nello spendere lo stesso titolo valutario due o più volte).
@@ -18,12 +18,12 @@ Ogni transazione contiene degli ingressi, che si riferiscono agli indirizzi da c
 
 Ha inoltre una serie di caratteristiche che lo rendono decisamente innovativo rispetto alle valute tradizionali (FIAT) e che gli consentono di risolvere molti problemi che la moneta non è riuscita a superare:
 
--   **la decentralizzazione**: il fatto che nessuna autorità può controllare o gestire i flussi e il valore dei bitcoin;
+* **la decentralizzazione**: il fatto che nessuna autorità può controllare o gestire i flussi e il valore dei bitcoin;
 
--   **la sicurezza**: nessuno può prelevare i fondi senza l'autorizzazione del proprietario delle chiavi crittografiche private connesse ad un wallet;
+* **la sicurezza**: nessuno può prelevare i fondi senza l'autorizzazione del proprietario delle chiavi crittografiche private connesse ad un wallet;
 
--   **la trasparenza**: ogni transazione rimane visibile pubblicamente in eterno, non può essere cancellata dalla blockchain se non dietro a un accordo della maggior parte dei partecipanti alla rete stessa;
+* **la trasparenza**: ogni transazione rimane visibile pubblicamente in eterno, non può essere cancellata dalla blockchain se non dietro a un accordo della maggior parte dei partecipanti alla rete stessa;
 
--   **la velocità**: in condizioni di normalità, bastano pochi minuti per inviare o ricevere bitcoin in tutto il mondo;
+* **la velocità**: in condizioni di normalità, bastano pochi minuti per inviare o ricevere bitcoin in tutto il mondo;
 
--   **la "non duplicabilità"**: risolve il problema del double spending.
+* **la "non duplicabilità"**: risolve il problema del double spending.
