@@ -1,0 +1,96 @@
+# Tutorial: Acquista o crea un NFT
+
+In sostanza, i token non fungibili sono risorse digitali indivisibili, uniche e possono rappresentare elementi tangibili e intangibili, creando scarsità digitale.
+
+Gli NFT possono avere molti casi d'uso come gli oggetti da collezione, opere d'arte, musica etc. all'interno contengono delle informazioni identificative registrate su uno smart-contract. Sono proprio le informazioni che rendono unico ogni NFT e non possono essere scambiati con nessun altro token, perchè appunto non ne esistono due uguali, hanno attributi unici che solitamente sono collegati ad una specifica risorsa, possono essere utilizzati per dimostrare la proprietà anche di risorse fisiche. Questi token non fungibili possono essere creati su blockchain abilitate per smart-contract, come Ethereum, Tron, Binance Smart Chain.
+
+La creazione di piattaforme decentralizzate e applicazioni per la gestione e la creazione degli NFT rimane ad oggi relativamente complicata e probabilmente per avere un successo maggiore sembra necessario unificare i protocolli e renderli interoperabili.
+
+## Come acquistare un NFT?
+
+Per acquistare questo tipo di token, è necessario possedere dentro il proprio wallet personale (esempio Metamask o Trust) degli Ether, la criptovaluta che gira su Ethereum (prendiamo la blockchain di Ethereum come esempio, per praticità d'uso e perchè molte piattaforme che permettono la creazione e la gestione di NFT sono state realizzate con l'ausilio degli smart contract su Ethereum). Questi Ether possono essere comprati su qualsiasi piattaforma di scambio (crypto-exchange) con bonifico o carta di credito/debito oppure anche in contanti (in giro per l'Italia esistono molti ATM che permettono tale operazione).
+
+Gli NFT possono essere acquistati su diversi marketplace, come:
+* [Rarible](https://rarible.com/)
+* [OpenSea](https://opensea.io/)
+* [Nifty Gateway](https://niftygateway.com/)
+* [Makersplace](https://makersplace.com/)
+* e molti altri..
+
+Prendiamo come riferimento Rarible, che è una delle piattaforme più conosciute. All'interno del sito web, ci sarà una vasta scelta di NFT, un mix tra arte, fotografie, collectible e GIF.
+
+Per realizzare il tutorial verrá scelto un'opera in modalità casuale.
+
+In alto a destra verrà richiesto di connettere il proprio wallet, basta selezionare il proprio portafoglio e accedere.
+
+![Selezione del Portafoglio](image4.png)
+
+In questo caso verrá utilizzato il portafoglio Trust per collegarlo alla piattaforma:
+
+![](image8.png)
+
+Successivamente si procede con la ricerca del NFT da acquistare, esistono due tipi di scelte:
+
+* Acquisto Immediato
+* Asta
+
+Per praticitá verrá scelta l'opzione "Buy Now":
+
+![](image5.png)
+![](image13.png)
+
+Verrà visualizzata una finestra con il dettaglio dell'ordine.
+
+L'opera con la funzione "Buy Now" ha un costo di 866.74 dollari, é necessario detenere all'interno del portafoglio gli ETH per l'acquisto, più la commissione della piattaforma 2.5% e le FEES della rete ethereum il cosiddetto "gas" o commissione di rete.
+
+Verrá illustrato il riepilogo ordine ed il processo di pagamento.
+
+Nel passaggio successivo vengono visualizzate le fees di network tramite popup per confermare la transazione e procedere con l'acquisto.
+
+Dopo aver confermato, la risorsa digitale verrà depositata direttamente nell' indirizzo ETH prescelto, nella sezione dedicata alla custodia dei crypto-asset.
+
+![](image10.png)
+
+## Come si crea un NFT? 
+
+Prendendo sempre come riferimento la piattaforma Rarible.
+
+In passato é stata creata un'immagine dal titolo "Baby Moon", un'avatar virtuale per celebrare un nuovo massimo storico di Bitcoin.
+
+![](image2.jpg)
+
+Con il solito portafoglio ethereum connesso, è possibile caricare il FILE prescelto (Jpeg, Png, Gif), le dimensioni del file risultano essere limitate a 30MB.
+
+Come si puó vedere nell'illustrazione in basso, é necessario scegliere il nome dell'opera, la descrizione e il numero di copie che si desidera vendere.
+
+Inoltre é molto importante scegliere la giusta royalty (il c.d. diritto di seguito per ogni vendita dell'opera sul mercato secondario).
+
+Le royalty variano dal 10 al 30%, ogni volta che una risorsa digitale viene venduta, si ottiene la percentuale prescelta dal prezzo di vendita corrente, oppure come citato prima, é possibile decidere il prezzo per la vendita istantanea, "Buy Now".
+
+NB: non sará possibile modificare nessun dato se non il prezzo una volta inserito.
+
+Per prima cosa è necessario "coniare" il token non fungibile (NFT), quindi pagare delle commissioni ETH (che non prenderà Rarible, ma i minatori di ethereum).
+
+Sará necessario crearne uno nuovo e selezionare se l'opera sará singola, quindi unica oppure una serie numerata.
+
+![](image6.png)
+
+![](image14.jpg)
+
+Adesso é possibile procedere con la creazione del NFT, scegliendo la formula di vendita desiderata, aste o vendita istantanea, oltre ad inserire la descrizione della creazione e la varie proprietà di essa.
+
+![](image11.png)
+![](image9.png)
+
+Adesso é possibile rendere immutabile "Baby Moon".
+
+Questa operazione necessita di due transazioni, attualmente é consigliato attendere il momento migliore per "mintare" un token a causa della rete congestionata di Ethereum, il gas risulta essere oneroso.
+
+Le funzioni "APPROVE & UPLOAD FILES AND MINT TOKEN" servono per creare il token non fungibile e inserirlo all'interno della blockchain di ethereum ed hanno le commissioni di rete l'ultima voce "Sign sell order" è soltanto la firma della transazione. In questa fase non viene richiesta nessuna FEE.
+
+![](image7.png)
+![](image3.png)
+
+![](image1.png)
+
+Dopo aver eseguito il "mint" del NFT con l'ausilio di Ethereum, automaticamente la risorsa digitale verrá inserita all'interno del marketplace e sarà visibile anche all'interno del wallet personale.
