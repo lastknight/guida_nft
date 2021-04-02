@@ -49,3 +49,5 @@ Gli NFT possono anche servire per verificare l'identità o rappresentare certifi
 ** DOCUMENTI FINANZIARI**
 I documenti finanziari (fatture, ordini, garanzie, bollette, ecc.) possono essere trasformati in NFT e scambiati con essi.  
 Gli NFT potrebbero anche essere usati per TICKETING, LOYALTY POINTS, PROCEDURE KYC e SELF SOVEREIGN IDENTITY, PROGRAMMI UMANITARI, SUPPLY CHAIN TRACKING, e molto altro.
+
+![](beeple.jpg)
