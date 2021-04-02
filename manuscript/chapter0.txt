@@ -1,28 +1,25 @@
 # Autori e Ringraziamenti
 
 Gli autori di questa guida:
-{width=30%, height=20%}
-![](image17.png)
 
-**Lucia Maggi**
+### Lucia Maggi
+![](image17.png)
 IP & Show business Lawyer, CEO and Partner @ [42LawFirm](https://42lf.it/), geek
 
-{width=30%, height=20%}
-![](image12.png)
 
-**Silvia Bossio**
+### Silvia Bossio
+![](image12.png)
 Direttore operativo - Bmine Group, Founder & Director - The Timist, Co-Founder - Crypto Bar, Community Manager - Seed Venture.
 
-{width=30%, height=20%}
+### Matteo G.P. Flora
 ![](image16.png)
-
-**Matteo G.P. Flora**
 Professore a Contratto in Corporate Reputation, Founder @ [TheFool](https://thefool.it/), co-founder @ [LT42](https://www.lt42.it/), Partner @ [42LawFirm](https://42lf.it/), hacker
 
-{width=30%, height=20%}
-![](image15.jpg)
 
-**Marco Tullio Giordano**
+### Marco Tullio Giordano
+![](image15.jpg)
 Tech lawyer, DPO, Lead Auditor ISO27001, Partner @[42LawFIrm](https://42lf.it/), autore del volume Blockchain e Smart Contract, Giuffrè Francis Lefebvre 2019
+
+### Ringraziamenti
 
 Ringraziamo per il prezioso contributo il Dottor [Michele Orrù](https://www.di.ens.fr/~orru/) post doc researcher at [UC Berkeley](https://eecs.berkeley.edu/), nonché tutto lo Studio 42LawFirm S.r.l. S.t.A. ed in particolare il dott. Marco Castelletta.
