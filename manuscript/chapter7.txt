@@ -36,9 +36,7 @@ Successivamente si procede con la ricerca del NFT da acquistare, esistono due ti
 
 Per praticità verrà scelta l'opzione "Buy Now":
 
-{height: 50%, width: 50%}
 ![Scelta opzione Buy Now](image5.png)
-{height: 50%, width: 50%}
 ![Scelta opzione Buy Now](image13.png)
 
 Verrà visualizzata una finestra con il dettaglio dell'ordine.
@@ -51,7 +49,6 @@ Nel passaggio successivo vengono visualizzate le fees di network tramite popup p
 
 Dopo aver confermato, la risorsa digitale verrà depositata direttamente nell' indirizzo ETH prescelto, nella sezione dedicata alla custodia dei crypto-asset.
 
-{height: 50%, width: 50%}
 ![Deposito nell'indirizzo ETH](image10.png)
 
 ## Come si crea un NFT? 
@@ -60,7 +57,6 @@ Prendendo sempre come riferimento la piattaforma Rarible.
 
 In passato é stata creata un'immagine dal titolo "Baby Moon", un'avatar virtuale per celebrare un nuovo massimo storico di Bitcoin.
 
-{height: 50%, width: 50%}
 ![L'Immagine di test](image2.jpg)
 
 Con il solito portafoglio ethereum connesso, è possibile caricare il FILE prescelto (Jpeg, Png, Gif), le dimensioni del file risultano essere limitate a 30MB.
@@ -77,16 +73,12 @@ Per prima cosa è necessario "coniare" il token non fungibile (NFT), quindi paga
 
 Sarà necessario crearne uno nuovo e selezionare se l'opera sará singola, quindi unica oppure una serie numerata.
 
-{height: 50%, width: 50%}
 ![Creazione e selezione dell'opera](image6.png)
-{height: 50%, width: 50%}
 ![Creazione e selezione dell'opera](image14.jpg)
 
 Adesso é possibile procedere con la creazione del NFT, scegliendo la formula di vendita desiderata, aste o vendita istantanea, oltre ad inserire la descrizione della creazione e la varie proprietà di essa.
 
-{height: 50%, width: 50%}
 ![Opzioni di creazione](image11.png)
-{height: 50%, width: 50%}
 ![Opzioni di creazione](image9.png)
 
 Adesso é possibile rendere immutabile "Baby Moon".
@@ -95,11 +87,8 @@ Questa operazione necessita di due transazioni, attualmente é consigliato atten
 
 Le funzioni "APPROVE & UPLOAD FILES AND MINT TOKEN" servono per creare il token non fungibile e inserirlo all'interno della blockchain di ethereum ed hanno le commissioni di rete l'ultima voce "Sign sell order" è soltanto la firma della transazione. In questa fase non viene richiesta nessuna FEE.
 
-{height: 50%, width: 50%}
 ![Completamento delle operazioni](image7.png)
-{height: 50%, width: 50%}
 ![Invio del risultato](image3.png)
-{height: 50%, width: 50%}
 ![Importi](image1.png)
 
 Dopo aver eseguito il "mint" del NFT con l'ausilio di Ethereum, automaticamente la risorsa digitale verrà inserita all'interno del marketplace e sarà visibile anche all'interno del wallet personale.
