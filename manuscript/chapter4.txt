@@ -26,7 +26,7 @@ Come ogni cosa sulla blockchain, il controllo è trasferito tramite chiavi pubbl
 
 Ma ogni chiave pubblica ha una chiave privata corrispondente. Entrambe sono generate insieme, perché sono matematicamente correlate. Solo qualcuno che conosce la chiave privata che corrisponde all'indirizzo di un wallet può trasferire qualcosa da tale wallet ad un'altra persona.
 
-## Analisi della creazione e della vendita dell'opera "The First 5000 days                                                                 |
+## Analisi della creazione e della vendita dell'opera "Everydays: The First 5000 Days"[^1]
 1. [Beeple](https://www.beeple-crap.com/) ha creato un'opera d'arte in un [file](https://ipfsgateway.makersplace.com/ipfs/QmXkxpwAHCtDXbbZHUwqtFucG1RMS6T87vi1CdvadfL7qA)
 1.  Ha creato un [hash](https://blog.erratasec.com/2021/03/QmXkxpwAHCtDXbbZHUwqtFucG1RMS6T87vi1CdvadfL7qA) che ha identificato in modo univoco e non violabile quel file  
 1. Ha creato un [file contenente dei metadati](https://dweb.link/ipfs/QmPAg1mjxcEQPPtqsLoEcauVedaeMH81WXDPvPx3VC5zUz) che include l'hash dell'opera d'arte
@@ -36,3 +36,5 @@ Ma ogni chiave pubblica ha una chiave privata corrispondente. Entrambe sono gene
 1. Christie's ha creato [un'asta](https://onlineonly.christies.com/s/first-open-beeple/beeple-b-1981-1/112924) per questo token
 1. L'asta si è conclusa con un pagamento di 69 milioni di dollari di criptovaluta Ether. Tuttavia, nessuno è stato in grado di trovare questo pagamento sulla blockchain di Ethereum, il denaro è stato probabilmente trasferito attraverso qualche mezzo privato
 1. Beeple ha [trasferito](https://etherscan.io/tx/0xa342e9de61c34900883218fe52bc9931daa1a10b6f48c506f2253c279b15e5bf#eventlog) il token al soggetto aggiudicatario, che lo ha [trasferito](https://etherscan.io/tx/0x01d0967faaaf95f3e19164803a1cf1a2f96644ebfababb2b810d41a72f502d49#eventlog) nuovamente su questo wallet finale di [Metakovan](https://etherscan.io/address/0x8bb37fb0f0462bb3fc8995cf17721f8e4a399629#tokentxnsErc721)
+
+[^1]: Per una più approfondita spiegazione un resoconto tecnico meraviglioso è disponibile nel [Blog ErrataSec](https://blog.erratasec.com/2021/03/deconstructing-that-69million-nft.html)
