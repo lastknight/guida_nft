@@ -124,7 +124,7 @@ Una soluzione potrebbe essere quella di far firmare all'autore lo smart contract
 
 ## Brucia l'arte e mettila su NFT -- La distruzione dell'opera fisica
 
-Ha suscitato interesse una recente vicenda che ha interessato un'opera di Bansky. L'azienda Injective Protocol, titolare di una piattaforma di Decentralized Derivatives Trading (DeFi) pare infatti abbia compiuto un singolare gesto dando fuoco ad una stampa del 2006 del noto artista intitolata Morons, ed autenticata dalla Pest Control (la società che garantisce l'autografia delle opere di Banksy).
+Ha suscitato interesse una recente vicenda che ha interessato un'opera di Banksy. L'azienda Injective Protocol, titolare di una piattaforma di Decentralized Derivatives Trading (DeFi) pare infatti abbia compiuto un singolare gesto dando fuoco ad una stampa del 2006 del noto artista intitolata Morons, ed autenticata dalla Pest Control (la società che garantisce l'autografia delle opere di Banksy).
 
 L'opera era stata acquistata dall'azienda Injective Protocol ed è stata poi rivenduta dalla medesima, dopo essere stata arsa, sotto forma di NFT, attività che ne ha incrementato esponenzialmente il valore.
 
